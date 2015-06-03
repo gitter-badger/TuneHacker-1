@@ -1,5 +1,5 @@
-# TuneHacker:
-One of those amazing Android games synced to music
+# TuneHacker
+### Just One of those amazing Android games synced to music.
 
 Tunehacker is a game which requires you to be in sync with all the music around you.
 
