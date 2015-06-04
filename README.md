@@ -13,4 +13,4 @@ We are probably updating this as you are reading, so feel free to fork and pull!
 PS: This is our first android app/project, so feel free to give advice!
 
 Thanks, 
-Square Cubed Studios(we are open source!)
+Quad Cubed Studios(we are open source!)
