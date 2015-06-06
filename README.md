@@ -1,6 +1,8 @@
 # TuneHacker
 ### Just One of those amazing Android games synced to music.
 
+[![Join the chat at https://gitter.im/QuadCubedStudios/TuneHacker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/QuadCubedStudios/TuneHacker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Tunehacker is a game which requires you to be in sync with all the music around you.
 
 You are an AI that hacks music to make it better for the world.
